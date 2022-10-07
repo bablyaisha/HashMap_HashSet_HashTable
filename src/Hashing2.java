@@ -1,5 +1,5 @@
 public class Hashing2 {
     public static void main(String[] args) {
-
+       //Creating Hash Map
     }
 }
