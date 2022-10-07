@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="624bc677-6f4a-43e1-bc6a-ce6dd13567f1" name="Changes" comment="Hashing">
-      <change afterPath="$PROJECT_DIR$/src/DuplicateInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DuplicateInArray">
+  <component name="RunManager" selected="Application.CountPairs">
+    <configuration name="CountPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountPairs" />
+      <module name="Hashing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicateInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateInArray" />
       <module name="Hashing" />
@@ -48,13 +55,6 @@
     </configuration>
     <configuration name="HashQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashQuestions" />
-      <module name="Hashing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hashing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing2" />
       <module name="Hashing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountPairs" />
         <item itemvalue="Application.DuplicateInArray" />
         <item itemvalue="Application.HashQuestions" />
         <item itemvalue="Application.subarray_with_sum_zero" />
         <item itemvalue="Application.TwoSum_LeetCode" />
-        <item itemvalue="Application.Hashing2" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665173910795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hashing">
+      <created>1665175230641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665175230641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,5 +147,15 @@
     <MESSAGE value="Hash" />
     <MESSAGE value="Hashing" />
     <option name="LAST_COMMIT_MESSAGE" value="Hashing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
