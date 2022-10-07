@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624bc677-6f4a-43e1-bc6a-ce6dd13567f1" name="Changes" comment="Hash">
-      <change afterPath="$PROJECT_DIR$/src/subarray_with_sum_zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashQuestions.java" afterDir="false" />
+    <list default="true" id="624bc677-6f4a-43e1-bc6a-ce6dd13567f1" name="Changes" comment="Hashing">
+      <change afterPath="$PROJECT_DIR$/src/DuplicateInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +38,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashQuestions">
-    <configuration name="HashQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashQuestions" />
+  <component name="RunManager" selected="Application.DuplicateInArray">
+    <configuration name="DuplicateInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateInArray" />
       <module name="Hashing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hashing" />
+    <configuration name="HashQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashQuestions" />
       <module name="Hashing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateInArray" />
         <item itemvalue="Application.HashQuestions" />
         <item itemvalue="Application.subarray_with_sum_zero" />
         <item itemvalue="Application.TwoSum_LeetCode" />
         <item itemvalue="Application.Hashing2" />
-        <item itemvalue="Application.Hashing" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665173311200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hashing">
+      <created>1665173910795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173910795</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HashSet" />
     <MESSAGE value="Hash" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hash" />
+    <MESSAGE value="Hashing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashing" />
   </component>
 </project>
